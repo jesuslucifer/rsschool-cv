@@ -1,0 +1,57 @@
+body {
+  background-image: url(background.jpg);
+}
+.avatar {
+  width: 300px;
+  margin-top: 10px;
+}
+
+.description {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.name {
+  margin-top: 70px;
+  color: white;
+  text-shadow: 2px -2px 0px black;
+}
+
+.heading {
+  margin-left: 20px;
+  color: white;
+  text-shadow: 2px -2px 0px black;
+}
+
+.text {
+  margin-left: 10px;
+  color: white;
+  text-shadow: 2px -2px 0px black;
+  padding: 5px;
+}
+
+.discord-icon {
+  width: 20px;
+}
+
+.contact {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 50px;
+}
+
+.email {
+  width: 20px;
+}
+
+.location {
+  width: 20px;
+}
+
+.about-me {
+  margin-left: 50px;
+}
+
+.skills {
+  margin-left: 50px;
+}
