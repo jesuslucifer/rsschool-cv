@@ -1,1 +1,1 @@
-https://jesuslucifer.github.io/rsschool-cv/cv
+https://jesuslucifer.github.io/rsschool-cv/
